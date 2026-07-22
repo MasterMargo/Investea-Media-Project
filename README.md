@@ -1,2 +1,20 @@
-# Investea-Media-Project
-Official public repository of the Investea Media Project.  Digital avatars, AI mentors, educational media, blockchain technologies, digital economy, and authorship by Margarita (Master Margo).
+# Investea Media Project
+
+Авторская медиа-вселенная о цифровой реальности: искусственный интеллект,
+блокчейн, цифровая экономика и то, как эти технологии меняют
+повседневную жизнь обычного человека.
+
+Проект строится вокруг постоянных цифровых персонажей, каждый из
+которых играет свою роль в объяснении сложных технологий простым
+языком — без хайпа и без страха перед будущим.
+
+Автор и идея: Margarita (Master Margo).
+
+## Формат
+
+Короткие и длинные видео на YouTube, посвящённые цифровому рублю,
+токенизации, смарт-контрактам и роли ИИ в жизни человека.
+
+## Лицензия
+
+MIT — см. LICENSE.
